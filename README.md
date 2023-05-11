@@ -1,33 +1,27 @@
-# Project Title
+New Python Code.
 
-One Paragraph of project description goes here.
+This code provides a way to look at a list in python charm and see if the word(s) exist in that list. If it meets a certain criteria (being true), than it will be printed. However, if it does not meet the criteria (being false), than it will be not printed and will continue on to the next object/string in the list.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will run this code on your local machine for experimenting in the python charm app.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+the Python code requires a PyCharm to run. The commands below will download a Python app.
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+PyCharm: https://www.jetbrains.com/pycharm/download/#section=windows
 
 ## Running
+```
+click on the download button under the community one, and follow the instructionson. 
+```
+
 Once installed you can run the program with the following command
 
 ```
-python cna_demo.py
-```
-
-Add any additional ways to run the program below
-
-```
-python cna_demo.py test.txt
+python README(1).md.py
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it herelll
+Thank yous to Dr. Zak for providing the demos needed to do this homework, for GitHub on how to provide an excellent writing README.md files so effectively, and for the PyCharm app to be able to run this code.
